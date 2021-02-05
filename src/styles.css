@@ -1,0 +1,20 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+.wrapper {
+  padding-top: 100px;
+  text-align: center;
+}
+
+button {
+  font-size: 24px;
+  margin-right: 30px;
+  width: 100px;
+}
